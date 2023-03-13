@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Chess",
+    "info": "wo-player strategy board game",
+    "category": "Board games",
+    "img_url": "https://images.pexels.com/photos/10626015/pexels-photo-10626015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 14.99,
+    "__v": 0
+  },
+  {
+    "name": "Jenga",
+    "info": "Stacking game that requires steady hands",
+    "category": "Board games",
+    "img_url": "https://images.pexels.com/photos/8111298/pexels-photo-8111298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 19.99,
+    "__v": 0
+  },
+  {
+    "name": "Dominoes",
+    "info": "Tile-based game that can be played with 2-4 players",
+    "category": "Board games",
+    "img_url": "https://images.pexels.com/photos/585293/pexels-photo-585293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 9.99,
+    "__v": 0
+  },
+  {
+    "name": "Uno",
+    "info": "Card game that can be played with 2-10 players",
+    "category": "Card games",
+    "img_url": "https://images.pexels.com/photos/9068959/pexels-photo-9068959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 7.99,
+    "__v": 0
+  },
+  {
+    "name": "Go Fish",
+    "info": "Card game that can be played with 2-5 players",
+    "category": "Card games",
+    "img_url": "https://images.pexels.com/photos/297507/pexels-photo-297507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 5.99,
+    "__v": 0
+  },
+  {
+    "name": "Checkers",
+    "info": "Two-player strategy board game",
+    "category": "Board games",
+    "img_url": "https://images.pexels.com/photos/3997813/pexels-photo-3997813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 12.99,
+    "__v": 0
+  },
+  {
+    "name": "Battleship",
+    "info": "Two-player strategy board game",
+    "category": "Board games",
+    "img_url": "",
+    "price": 24.99,
+    "__v": 0
+  },
+  {
+    "name": "Scrabble",
+    "info": "Word game that can be played with 2-4 players",
+    "category": "Board games",
+    "img_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 29.99,
+    "__v": 0
+  },
+  {
+    "name": "Connect Four",
+    "info": "Two-player strategy game that requires critical thinking",
+    "category": "Board games",
+    "img_url": "https://images.pexels.com/photos/8762743/pexels-photo-8762743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 14.99,
+    "__v": 0
+  },
+  {
+    "name": "Yahtzee",
+    "info": "Dice game that can be played with 2-6 players",
+    "category": "Board games",
+    "img_url": "https://live.staticflickr.com/3159/2442551058_28a6339d31_b.jpg",
+    "price": 9.99,
+    "__v": 0
+  },
+  {
+    "name": "Candy Land",
+    "info": "Board game that can be played with 2-4 players",
+    "category": "Children's games",
+    "img_url": "",
+    "price": 12.99,
+    "__v": 0
+  },
+  {
+    "name": "Chutes and Ladders",
+    "info": "Board game that can be played with 2-4 players",
+    "category": "Children's games",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Snakes_and_Ladders_-_Board_Game.svg",
+    "price": 9,
+    "__v": 0
+  },
+  {
+    "name": "Monopoly",
+    "info": "Board game that can be played with 2-8 players",
+    "category": "Board games",
+    "img_url": "https://images.pexels.com/photos/4004426/pexels-photo-4004426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 34.99,
+    "__v": 0
+  },
+  {
+    "name": "Sorry!",
+    "info": "Board game that can be played with 2-4 players",
+    "category": "Children's games",
+    "img_url": "",
+    "price": 8.99,
+    "__v": 0
+  },
+  {
+    "name": "Pictionary",
+    "info": "Drawing and guessing game that can be played with 4 or more players",
+    "category": "Party games",
+    "img_url": "https://example.com/games/pictionary.jpg",
+    "price": 19.99,
+    "__v": 0
+  },
+  {
+    "name": "Taboo",
+    "info": "Word guessing game that can be played with 4 or more players",
+    "category": "Party games",
+    "img_url": "https://example.com/games/taboo.jpg",
+    "price": 14.99,
+    "__v": 0
+  },
+  {
+    "name": "Twister",
+    "info": "Physical game that requires players to contort their bodies",
+    "category": "Party games",
+    "img_url": "https://images.pexels.com/photos/6630816/pexels-photo-6630816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "price": 19.99,
+    "__v": 0
+  },
+  {
+    "name": "Risk",
+    "info": "Board game that involves strategy and world domination",
+    "category": "Board games",
+    "img_url": "https://example.com/games/risk.jpg",
+    "price": 39.99,
+    "__v": 0
+  }
+]

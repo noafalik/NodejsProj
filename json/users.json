@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {
+      "$oid": "63eb5d5fced008a95a9c9aba"
+    },
+    "name": "Alon Falik",
+    "email": "alonfalik@gmail.com",
+    "password": "$2b$10$O7Z5mHTS/QMSN/66jjTNM.dALmQtWwbL950FjWvSiGvyOMXuiL5CO",
+    "date_created": {
+      "$date": {
+        "$numberLong": "1676369247690"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63eb71a1016c09fb053a4f39"
+    },
+    "name": "Rosi Falik",
+    "email": "rosi@gmail.com",
+    "password": "$2b$10$7ZDmOnP6lZyqm9ZArM42eezHUuYLzSNLAYI7MnGN2NRki3kesyUSS",
+    "date_created": {
+      "$date": {
+        "$numberLong": "1676374433544"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64088d763926f29828efe385"
+    },
+    "name": "Noa",
+    "email": "noafalik@walla.com",
+    "password": "$2b$10$e6DUnHpG0dzUfKKpVcmzL.cQqm3/O.OfAuVRAL6nwGS0bUAJ1oK2O",
+    "date_created": {
+      "$date": {
+        "$numberLong": "1678282102993"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "640890c4346968cdbfe736d1"
+    },
+    "name": "Noa Falik",
+    "email": "noafalik22@walla.com",
+    "password": "$2b$10$RxvKvTEcVN6LZPzPiU/fMenUKcNm0.8YqmJN4hT2T2BGvRd31tvhS",
+    "role": "admin",
+    "date_created": {
+      "$date": {
+        "$numberLong": "1678282948889"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6408b5a9f95136cc6b94a1b1"
+    },
+    "name": "kobi",
+    "email": "kobi@walla.com",
+    "password": "$2b$10$XBPLHcH9975VAtwOamvEJuWfh4qmUoNQHbViY0UVl8mcb8UtBxEEy",
+    "role": "user",
+    "date_created": {
+      "$date": {
+        "$numberLong": "1678292393340"
+      }
+    },
+    "__v": 0
+  }
+]
